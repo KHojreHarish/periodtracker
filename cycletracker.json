@@ -8,8 +8,23 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "WebutoDarkLogo.jpg",
-      "sizes": "any",
+      "src": "WebutoDarkLogo.png",
+      "sizes": "48x48",
+      "purpose": "maskable"
+    },
+    {
+      "src": "WebutoDarkLogo.png",
+      "sizes": "72x72 96x96",
+      "purpose": "maskable"
+    },
+    {
+      "src": "WebutoDarkLogo.png",
+      "sizes": "128x128 256x256",
+      "purpose": "maskable"
+    },
+    {
+      "src": "WebutoDarkLogo.png",
+      "sizes": "512x512",
       "purpose": "maskable"
     }
   ]
