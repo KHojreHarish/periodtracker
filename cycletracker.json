@@ -10,22 +10,7 @@
   "icons": [
     {
       "src": "webutologo.png",
-      "sizes": "48x48",
-      "purpose": "maskable"
-    },
-    {
-      "src": "webutologo.png",
-      "sizes": "72x72 96x96",
-      "purpose": "maskable"
-    },
-    {
-      "src": "webutologo.png",
-      "sizes": "128x128 256x256",
-      "purpose": "maskable"
-    },
-    {
-      "src": "webutologo.png",
-      "sizes": "512x512",
+      "sizes": "750x750",
       "purpose": "maskable"
     }
   ]
