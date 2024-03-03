@@ -6,24 +6,25 @@
   "theme_color": "",
   "background_color": "",
   "display": "standalone",
+  "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "WebutoDarkLogo.png",
+      "src": "webutologo.png",
       "sizes": "48x48",
       "purpose": "maskable"
     },
     {
-      "src": "WebutoDarkLogo.png",
+      "src": "webutologo.png",
       "sizes": "72x72 96x96",
       "purpose": "maskable"
     },
     {
-      "src": "WebutoDarkLogo.png",
+      "src": "webutologo.png",
       "sizes": "128x128 256x256",
       "purpose": "maskable"
     },
     {
-      "src": "WebutoDarkLogo.png",
+      "src": "webutologo.png",
       "sizes": "512x512",
       "purpose": "maskable"
     }
