@@ -1,0 +1,16 @@
+{
+  "name": "Webuto_Nexus",
+  "short_name": "Webuto",
+  "description": "it as app for our clients to chech their project and use tythe functionality provided by us ",
+  "start_url": "/",
+  "theme_color": "",
+  "background_color": "",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "WebutoDarkLogo.jpg",
+      "sizes": "any",
+      "purpose": "maskable"
+    }
+  ]
+}
