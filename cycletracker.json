@@ -7,6 +7,7 @@
   "background_color": "",
   "display": "standalone",
   "orientation": "portrait-primary",
+  "id": "/",
   "icons": [
     {
       "src": "webutologo.png",
